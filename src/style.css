@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'montserrat', sans-serif;
+}
+
+#app {
+  justify-content: center;
+}
+
+.btn {
+  width: 67px;
+  color: rgb(47, 82, 92) ;
+  font-size: 2em;
+  border: none;
+  border-radius: 16px;
+  padding: 15px;
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  box-shadow: rgba(255,255,255,.25);
+}
